@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16022022_ORM_STORE_PROJECT", "16022022_ORM_STORE_PROJECT\16022022_ORM_STORE_PROJECT.csproj", "{78287468-75C7-408B-AD4F-D5459A730C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store", "Store\Store.csproj", "{D07688C0-357C-4D4A-A4B7-D3CE1F1ACA20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78287468-75C7-408B-AD4F-D5459A730C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78287468-75C7-408B-AD4F-D5459A730C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78287468-75C7-408B-AD4F-D5459A730C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78287468-75C7-408B-AD4F-D5459A730C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07688C0-357C-4D4A-A4B7-D3CE1F1ACA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07688C0-357C-4D4A-A4B7-D3CE1F1ACA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07688C0-357C-4D4A-A4B7-D3CE1F1ACA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07688C0-357C-4D4A-A4B7-D3CE1F1ACA20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F32D309D-80C1-4F02-BA63-D9B47380BE26}
+	EndGlobalSection
+EndGlobal

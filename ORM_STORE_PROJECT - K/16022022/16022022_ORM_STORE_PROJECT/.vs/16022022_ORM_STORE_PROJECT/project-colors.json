@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "78287468-75c7-408b-ad4f-d5459a730c98": {
+      "ProjectGuid": "78287468-75c7-408b-ad4f-d5459a730c98",
+      "DisplayName": "16022022_ORM_STORE_PROJECT",
+      "ColorIndex": 0
+    },
+    "d07688c0-357c-4d4a-a4b7-d3ce1f1aca20": {
+      "ProjectGuid": "d07688c0-357c-4d4a-a4b7-d3ce1f1aca20",
+      "DisplayName": "Store",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
